@@ -5,4 +5,4 @@ Just some student trying to figure out what to do next... :)
 - 🌱 I’m currently learning PyTorch
 - 💬 Ask me about bioinformatics, biology, and music too!
 
-I like to spend some of my time working for and learning cool things at [BioLib](www.biolib.com), be sure to check them out!
+I like to spend some of my time working for and learning cool things at [BioLib](https://biolib.com/), be sure to check them out!
